@@ -1,1 +1,1 @@
-print("pakistan zindabad111:")
+print("pakistan zindabad1:")
