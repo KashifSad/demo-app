@@ -1,1 +1,1 @@
-print("pakistan")
+print("pakistan zindabad:")
